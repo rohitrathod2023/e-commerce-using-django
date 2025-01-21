@@ -61,7 +61,7 @@ This application includes two main models:
     python manage.py runserver
     ```
 
-6. Visit `http://127.0.0.1:8000/` in your browser to view the application.
+6. Visit `http://127.0.0.1:8000/products` in your browser to view the application.
 
 ## Screenshots
 ![index page Screenshot](img1.png)
